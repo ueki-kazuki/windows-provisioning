@@ -26,7 +26,7 @@ $ sudo apt update
 ## Homebrew
 ```
 $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-$ cd /path/to/win-provisioning
+$ cd /path/to/windows-provisioning
 $ brew bundle
 ```
 
